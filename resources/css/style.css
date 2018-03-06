@@ -1,0 +1,86 @@
+
+video::-webkit-media-controls {
+  display: none;
+}
+
+html {
+  background-color: #000000;
+  }
+
+h3 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
+a { color: Aquamarine; }
+
+.link {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.subhead {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+  text-align: center;
+}
+
+#headline {
+font-family: Verdana;
+font-weight: normal;
+font-size: 50px;
+color: White;
+text-align: center;
+}
+
+#top-video {
+  position:relative;
+  width: auto;
+  margin: -20px 0px 50px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+#top-video video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+#camp-image img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+#phone-image {
+  position:relative;
+  width: auto;
+  margin: 30px 0px 50px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+#phone-image img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+#copyright {
+  text-align: right;
+}
+
+#symbol {
+  font-size: 22px;
+}
